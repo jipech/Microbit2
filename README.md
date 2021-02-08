@@ -1,13 +1,8 @@
  <div id="readme" class="readme blob instapaper_body">
-    <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-prim---robotika" class="anchor" aria-hidden="true" href="#prim---robotika"></a>Robotika: programujeme Micro:bit pomocí Pythonu</h1>
-<p>Tato učebnice je podobná učebnici <a href="https://github.com/Nowis75/PRIM"> Robotika: programujeme Arduino </a>. Stačí si jen vybrat, kterou technologii pro výuku robotiky využijete. Struktura obou učebnic (ne obsah) je prakticky stejná.</p>
+ <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-prim---robotika" class="anchor" aria-hidden="true" href="#prim---robotika"></a>Robotika: programujeme Micro:bit pomocí Pythonu - verze 2</h1>
+<p>Tyto stránky vychází z učebnice <a href="https://github.com/jipech/PRIM-Microbit"> Robotika: programujeme Microbit pomocí Pythonu </a>, která je zakonzervovaná ve verzi k 30.6.2020. Zde jsou postupně doplněny aktualizace, opraveny chyby a přidány změny pro verzi Micro:bitu 2.0. ¨
+Je zde rovněž doplněn popis editory Thonny.</p>
 
-<H2> KDE ZAČÍT </H2>
-<p>Nevíte-li kde začít stáhněte si a otevřete soubor:
-<a href="https://github.com/jipech/PRIM-microbit/tree/master/ucebnice.pdf">ucebnice.pdf</a>.</p>
-<p>Stažení všech souborů:
-<a href="https://github.com/jipech/PRIM-microbit/tree/master/ucebnice.part1.rar">ucebnice.part1.rar</a> a
-<a href="https://github.com/jipech/PRIM-microbit/tree/master/ucebnice.part2.rar">ucebnice.part2.rar</a>.</p>
 <h2>KRÁTKÉ SEZNÁMENÍ, SE STRUKTUROU UČEBNICE</h2><p>
 Učebnice se skládá z jednotlivých kapitol, které obsahují konkrétní probírané téma. Materiály pro každé téma jsou rozděleny do tří základních částí a doplněny o další podpůrné materiály.</p>
 <p>
@@ -42,38 +37,38 @@ Ve složce se nachází zejména soubory schémat zapojení všech obvodů uvede
 <p>Je určena pro pokročilejší žáky 8. až 9. tříd základních škol, nižší ročníky osmiletcýh gymnázií (tercie, kvarta), zájmové kroužky (13 let a výše) a pro neelektrotechnicky zaměřené školy střední.</p>
 <h2>Obsah</h2>
 <ol>
-<li><a href="https://github.com/jipech/PRIM-microbit/tree/master/00-Uvod"> Úvod</a>
-<li><a href="https://github.com/jipech/PRIM-microbit/tree/master/01-LED"> Práce s vestavěným LED displejem</a>
+<li><a href="https://github.com/jipech/Microbit2/tree/master/00-Uvod"> Úvod</a>
+<li><a href="https://github.com/jipech/Microbit2/tree/master/01-LED"> Práce s vestavěným LED displejem</a>
 <ul>
 <li>Zobrazování textu
 <li>Zobrazení obrázků vestavěných i vlastních
 <li>Animace
 </ul>
-<li><a href="https://github.com/jipech/PRIM-microbit/tree/master/02-Button"> Použití vestavěných tlačítek</a>
-<li><a href="https://github.com/jipech/PRIM-microbit/tree/master/03-Sound">Práce se zvukem</a>
+<li><a href="https://github.com/jipech/Microbit2/tree/master/02-Button"> Použití vestavěných tlačítek</a>
+<li><a href="https://github.com/jipech/Microbit2/tree/master/03-Sound">Práce se zvukem</a>
 <ul>
 <li>Přehrání vestavěných melodií
 <li>Tvorba vlastních melodií
 <li>Generování řeči
 </ul>
-<li><a href="https://github.com/jipech/PRIM-microbit/tree/master/04-Poloha">Orientace micro:bitu v prostoru</a>
+<li><a href="https://github.com/jipech/Microbit2/tree/master/04-Poloha">Orientace micro:bitu v prostoru</a>
 <ul>
 <li>Použití vestavěného akcelerometru
 <li>Využití gest
 <li>Použití vestavěného kompasu
 <li>Měření magnetického pole
 </ul>
-<li><a href="https://github.com/jipech/PRIM-microbit/tree/master/05-Sit">Propojení micro:bitů v síti</a>
+<li><a href="https://github.com/jipech/Microbit2/tree/master/05-Sit">Propojení micro:bitů v síti</a>
 <ul>
 <li>Přímé propojení pomocí kabelu
 <li>Bezdrátové propojení pomocí rádia
 </ul>
-<li><a href="https://github.com/jipech/PRIM-microbit/tree/master/06-Periferie">Práce s perifériemi</a>
+<li><a href="https://github.com/jipech/Microbit2/tree/master/06-Periferie">Práce s perifériemi</a>
 <ul>
 <li>Ovládání trojbarevné diody
 <li>Měření teploty pomocí externího čidla
 </ul>
-<li><a href="https://github.com/jipech/PRIM-microbit/tree/master/07-Zaver">Závěrečný příklad</a>
+<li><a href="https://github.com/jipech/Microbit2/tree/master/07-Zaver">Závěrečný příklad</a>
 </ul>
 </ol>
 </article>
